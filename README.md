@@ -2,8 +2,8 @@
 
 ## HTML
 ### Elements Included
-1. We have included a header and a main element. 
-2. The main element has 2 elements an article and aside. 
+1. I have included a header and a main element. 
+2. The main element has 2 elements; an article and aside. 
 
 **Main**
 
