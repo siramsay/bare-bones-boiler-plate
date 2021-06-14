@@ -1,4 +1,4 @@
-# Boiler Plate 
+# Bare Bones Boiler Plate 
 
 ## HTML
 ### Elements Included
