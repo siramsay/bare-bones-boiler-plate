@@ -1,4 +1,4 @@
-# Bare Bones Boiler Plate 
+# Barebones Boilerplate 
 
 ## HTML
 ### Elements Included
