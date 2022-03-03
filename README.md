@@ -1,5 +1,7 @@
 # Boiler Plate 
 
+This is available from https://github.com/siramsay/bare-bones-boiler-plate
+
 ## HTML
 ### Elements Included
 1. We have included a header and a main element. 
