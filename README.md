@@ -9,9 +9,11 @@ This is available from https://github.com/siramsay/bare-bones-boiler-plate
 
 **Main**
 
-The main element has `display: flex;` set on it and the flex items as centred with `justify-content: center;` and 
+The main element has `display: flex;` set on it, and the flex items centred with `justify-content: center;` and 
 `align-items: center;`.
-That is all that is included since the main purpose of this boiler plate is CSS experimentation and drawing.
+That is all that is included since the main purpose of this boiler plate is CSS experimentation and drawing which I generally want to be centred on the page.
+
+If you want to use this for other work you could remove the above rule for the main element and the markup of the main element, that is the `<article>Content</article>` and `<aside>Aside</aside>`. You could also deleted the `<header>Header</header>` element.
 
 ## CSS
 ### Reset CSS
